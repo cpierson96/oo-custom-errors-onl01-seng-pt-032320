@@ -14,6 +14,8 @@ class Person
   end
 end 
 class PartnerError < StandardError
+  def message 
+    
 end 
 
 end
